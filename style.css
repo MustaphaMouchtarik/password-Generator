@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+
+}
+label{
+    font-size: 30px;
+}
+input{
+    font-size: 1.5em;
+}
+button{
+    font-size: 40px;
+    border-radius: 7px;
+    cursor: pointer;
+    color: aliceblue;
+    background-color: hsl(348, 87%, 59%);
+}
+button:hover{
+    background-color: hsl(348, 60%, 42%);
+}
+#area{
+    font-size: 40px
+}
